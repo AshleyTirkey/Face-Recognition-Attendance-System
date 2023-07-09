@@ -9,6 +9,7 @@ Libraries used for this project are os, cv2, numpy, face_recognition and datetim
 
 # Basic Flow
 
-We grab the list of images that are stored in the "Images_Attendance" folder and save it. We then find the encodings for the list of images we grabbed from the folder. 
+We grab the list of images that are stored in the "Images_Attendance" folder and save it. We then find the encodings for the list of images we grabbed from the folder. These encodings are used to match with the image that our video camera captures in order to tell identity of the person. After getting a successfull match the program will write the name with it the time and date it recognised the person in an output file "attendance.csv".
 
-These encodings are used to match with the image that our video camera captures in order to tell identity of the person. After getting a successfull match the program will write the name with it the time and date it recognised the person in an output file "Attendance.csv"
+INPUT:
+
