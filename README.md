@@ -11,5 +11,18 @@ Libraries used for this project are os, cv2, numpy, face_recognition and datetim
 
 We grab the list of images that are stored in the "Images_Attendance" folder and save it. We then find the encodings for the list of images we grabbed from the folder. These encodings are used to match with the image that our video camera captures in order to tell identity of the person. After getting a successfull match the program will write the name with it the time and date it recognised the person in an output file "attendance.csv".
 
-INPUT:
+INPUT
+
+We have these three images stored in our "Images_Attendance" folder which will act as a reference for identifying them.
+![image](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/40964446-11f0-40e9-8fef-eeac61f31c97)
+
+EXECUTION:
+
+After executing the program it will find the encdoings for the refernce image and initiate a web cam to capture the video
+
+
+Upon capturing my face it matches with the encodings that are stored and upon no match it is not able to recognize the person.
+
+
+When showed an image of any of the three reference images it is able to match the encoding with the image its capturing and will present the name of the person as well as store the name with it its time and date of when it recognised the person.
 
