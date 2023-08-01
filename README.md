@@ -19,10 +19,15 @@ We have these three images stored in our "Images_Attendance" folder which will a
 EXECUTION:
 
 After executing the program it will find the encdoings for the refernce image and initiate a web cam to capture the video
+![Screenshot 2023-08-01 171124](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/bb47e38e-f8d9-400a-acc1-944971a9fe45)
 
 
 Upon capturing my face it matches with the encodings that are stored and upon no match it is not able to recognize the person.
+![Screenshot 2023-08-01 171322](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/48de5fa6-f4b1-43c6-98cd-9a80f476e01e)
+![Screenshot 2023-08-01 171357](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/94324a77-dd56-425c-a8af-94529535c042)
+![Screenshot 2023-08-01 171413](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/0545f378-ecb6-4d57-8981-3b78f9f20ac8)
 
 
 When showed an image of any of the three reference images it is able to match the encoding with the image its capturing and will present the name of the person as well as store the name with it its time and date of when it recognised the person.
+![Screenshot 2023-08-01 171825](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/a6a02bcc-e4a4-41f7-ad57-5e4f67312c90)
 
