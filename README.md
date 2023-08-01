@@ -19,7 +19,7 @@ We have these three images stored in our "Images_Attendance" folder which will a
 EXECUTION:
 
 After executing the program it will find the encdoings for the refernce image and initiate a web cam to capture the video
-![Screenshot 2023-08-01 171124](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/bb47e38e-f8d9-400a-acc1-944971a9fe45)
+
 
 
 Upon capturing my face it matches with the encodings that are stored and upon no match it is not able to recognize the person.
