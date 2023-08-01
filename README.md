@@ -29,5 +29,6 @@ Upon capturing my face it matches with the encodings that are stored and upon no
 
 
 When showed an image of any of the three reference images it is able to match the encoding with the image its capturing and will present the name of the person as well as store the name with it its time and date of when it recognised the person.
-![Screenshot 2023-08-01 171825](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/a6a02bcc-e4a4-41f7-ad57-5e4f67312c90)
+![image](https://github.com/AshleyTirkey/Face-Recognition-Attendance-System/assets/87265518/0eaafe1c-4995-4ad6-80bb-a6515233a5d2)
+
 
